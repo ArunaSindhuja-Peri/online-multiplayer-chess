@@ -112,5 +112,5 @@ A player also has the provision to change his password, and see when he was last
 8) https://fosterelli.co/dangerous-use-of-express-body-parser
 9) https://github.com/expressjs/body-parser#express-route-specific
 10) https://docs.mongodb.com/manual/tutorial/configure-ssl/
-
+Special thanks Mahmoud Ben Hassine for providing an opportunity to modify his idea according to our requirement.
 I would like to thank (Ruchita Garde)[https://www.linkedin.com/in/ruchita-garde/] for her contribution to this project.
