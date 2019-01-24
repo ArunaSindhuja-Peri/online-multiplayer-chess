@@ -113,4 +113,4 @@ A player also has the provision to change his password, and see when he was last
 9) https://github.com/expressjs/body-parser#express-route-specific
 10) https://docs.mongodb.com/manual/tutorial/configure-ssl/
 
-I would like to specially thank (Aruna Sindhuja Peri)[https://www.linkedin.com/in/aruna-sindhuja-peri-892a9711a/] for her contribution to this project.
+I would like to thank (Ruchita Garde)[https://www.linkedin.com/in/ruchita-garde/] for her contribution to this project.
